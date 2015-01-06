@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ogaworks.github.io]]></title>
-  <link href="http://ogaworks.github.io/atom.xml" rel="self"/>
-  <link href="http://ogaworks.github.io/"/>
-  <updated>2015-01-06T23:02:00+09:00</updated>
-  <id>http://ogaworks.github.io/</id>
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-01-06T23:11:54+09:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Norifumi Ogawa]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
